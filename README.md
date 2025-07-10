@@ -26,3 +26,6 @@ A tribute webpage with:
 - A photo of Aishwarya Rai
 - Paragraphs describing her career and personality
 - Customized fonts and background color for aesthetic impact
+
+## Screenshot
+[Screenshot](tributepage.png)
