@@ -31,4 +31,4 @@ A tribute webpage with:
 ![Screenshot](tributepage.png)
 
 ## Demo Video:
-👉 [Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=4zqQz5QO08k)
+👉 [Click here to watch the demo on YouTube](https://youtu.be/4zqQz5QO08k?si=f8koK3IJ53zWGYof)
