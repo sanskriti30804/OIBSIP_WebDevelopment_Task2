@@ -28,4 +28,4 @@ A tribute webpage with:
 - Customized fonts and background color for aesthetic impact
 
 ## Screenshot
-[Screenshot](tributepage.png)
+![Screenshot](tributepage.png)
